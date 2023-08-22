@@ -2,6 +2,10 @@
 
 This README provides an overview of the Python code that implements the forward propagation of a recurrent neural network (RNN). The RNN consists of a sequence of RNN cells, each performing a single forward step.
 
+## Course Information
+
+This project was done as an exercise in the Coursera course: [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models).
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Functions](#functions)
